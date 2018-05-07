@@ -8,7 +8,7 @@ Unter Richtlinien verstehen wir einen Konsens für gewünschtes Verhalten in ein
 Ein Verhaltenskodex enthält zudem Positiv-Beispiele, Definitionen für schädliches und nicht toleriertes Verhalten, Abläufe für Problemmeldungen und die Abläufe der Konfliktbehandlung. Ein Verhaltenskodex kann allen Beteiligten einen Weg aufzeigen, mit Konflikten und Problemen umzugehen. Mehr dazu findest du in der [Wissensbasis](Wissensbasis.md). 
 
 ## Verwendung
-Um den Exzellenzkodex für dein Projekt zu verwenden, kannst du ihn dafür unverändert übernehmen oder für deine Zwecke anpassen. Der Exzellenzkodex steht dafür unter einer freien Lizenz auf Github zur Verfügung. Wir freuen uns über Forks, Feedback, Issues und Pull Requests!
+Um den Exzellenzkodex für deine Veranstaltung zu verwenden, kannst du ihn dafür unverändert übernehmen oder für deine Zwecke anpassen. Der Exzellenzkodex steht dafür unter einer freien Lizenz auf Github zur Verfügung. Wir freuen uns über Forks, Feedback, Issues und Pull Requests!
 Um einen Exzellenzkodex zu verwenden, bedarf es natürlich mehr als nur einer Sammlung von schriftlichen Richtlinien. Damit er funktioniert, muss er in der entsprechenden Community verankert sein. Für die Lösung von Problemen müssen verständliche Prozesse und klar benannte und erreichbare Ansprechpersonen existieren.
 
 ## Wie kann ich beitragen?
