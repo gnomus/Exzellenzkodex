@@ -1,3 +1,3 @@
 # Exzellenzkodex
 
-<hier fehlt Inhalt>
+Be excellent to each other.
