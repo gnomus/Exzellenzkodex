@@ -17,9 +17,6 @@ please ask everybody for consent.
 Sorry, but smoking is absolutely prohibited in all indoor areas
 
 **I've heard about people being harassed at tech cons. Do I need to worry?**
-* Generally, the Congress is a safe and friendly place, and the vast majority of attendants knows how to behave. If you run into someone who doesn't and can't resolve the problem yourself or with the help of other attendants, don't hesitate to contact the security angel, either directly by calling 110 on DECT, or by asking any of the volunteers to do this for you. Safety and Security on 34C3 for more details.
-
-**I've heard about people being harassed at tech cons. Do I need to worry?**
 Generally, the Congress is a safe and friendly place, and the vast majority of attendants knows how to behave. If you run into someone who doesn't and can't resolve the problem yourself or with the help of other attendants, don't hesitate to contact the security angel, either directly by calling 110 on DECT, or by asking any of the volunteers to do this for you. Safety and Security on 34C3 for more details.
 
 **What about videotaping/taking pictures at congress?**
